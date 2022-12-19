@@ -13,7 +13,7 @@ bpe_dir=../../utils/BPE
 selected_cols=0,4,2,3
 
 data=../../dataset/refcoco/test_vg.tsv
-path=../../checkpoints/checkpoint.clean_best_score_0.8160.pt
+path=../../checkpoints/checkpoint.ofa8160.pt
 result_path=../../results/refcoco
 split='vg_answer1.tsv'
 
